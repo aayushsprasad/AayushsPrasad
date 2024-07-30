@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋  Hi I'm Aayush Prasad!
 
-<!--
-**aayushsprasad/aayushsprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent MSc Computer Science graduate from Rivier University, with a strong background in Python, C++, and software development.
 
-Here are some ideas to get you started:
+🔧 Passionate about AI, machine learning, and robotics. Experienced in developing autonomous systems and data-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Skilled in a variety of programming languages and technologies, including Java, MATLAB, HTML, CSS, JavaScript, React.js, Node.js, SQL, AWS, Azure, and Google Cloud Platform.
+
+💡 Always eager to learn and tackle new challenges. Excited about leveraging technology to solve real-world problems and make a positive impact.
+
+🚀 Currently exploring opportunities in software development, AI, and robotics. Open to collaborations and projects.
+
+📫 Let's connect: [LinkedIn]([url](https://www.linkedin.com/in/aayush-prasad-05786a14b/)) 
+
+📫 Email: aayushsprasad@gmail.com
