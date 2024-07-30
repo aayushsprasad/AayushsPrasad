@@ -10,6 +10,6 @@
 
 🚀 Currently exploring opportunities in software development, AI, and robotics. Open to collaborations and projects.
 
-📫 Let's connect: [LinkedIn]([url](https://www.linkedin.com/in/aayush-prasad-05786a14b/)) 
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/aayush-prasad-05786a14b/) 
 
 📫 Email: aayushsprasad@gmail.com
